@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Walls
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Markers
+  - Shadows
+  - Floors
+  - Lighting
+  - Wall Lighting
+  - PolyNav
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floors
+    uniqueID: 4230951559
+    locked: 0
+  - name: Walls
+    uniqueID: 2378015371
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Overlays
+    uniqueID: 3001844745
+    locked: 0
